@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>MLHydro | Hydrogen Safety Dashboard</title>
+
+  <style>
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      padding: 28px;
+      font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif;
+      background: #101827;
+      color: #f3f4f6;
+    }
+
+    main { max-width: 1100px; margin: 0 auto; }
+
+    header { margin-bottom: 28px; }
+    h1 { color: #67e8f9; margin-bottom: 8px; }
+    h2 { color: #e2e8f0; margin-bottom: 6px; }
+    h3 { margin: 0; font-size: 16px; color: #cbd5e1; }
+
+    .muted { color: #94a3b8; font-size: 14px; line-height: 1.6; }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+      gap: 18px;
+      margin: 20px 0 30px;
+    }
+
+    .card {
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 14px;
+      padding: 22px;
+      min-width: 0;
+    }
+
+    .value {
+      font-size: 28px;
+      font-weight: bold;
+      margin: 14px 0;
+      overflow-wrap: anywhere;
+      font-variant-numeric: tabular-nums;
+    }
+
+    .section { margin-top: 32px; }
+    .good { color: #4ade80; }
+    .error { color: #f87171; }
+    .warning { color: #fbbf24; line-height: 1.7; }
+
+    .badge {
+      display: inline-block;
+      font-size: 12px;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #334155;
+      color: #cbd5e1;
+      margin-left: 8px;
+      vertical-align: middle;
+    }
+    .badge.sim { background: #78350f; color: #fde68a; }
+
+    form {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 16px;
+    }
+
+    label {
+      display: block;
+      color: #cbd5e1;
+      font-size: 14px;
+      margin-bottom: 7px;
+    }
+
+    .hint { display: block; color: #94a3b8; font-size: 12px; margin-top: 5px; }
+
+    input, select {
+      width: 100%;
+      padding: 11px;
+      border-radius: 8px;
+      border: 1px solid #475569;
+      background: #0f172a;
+      color: white;
+      font: inherit;
+    }
+
+    input[readonly] { color: #94a3b8; }
+
+    .actions { display: flex; align-items: end; }
+
+    button {
+      padding: 12px 18px;
+      border: none;
+      border-radius: 8px;
+      background: #0891b2;
+      color: white;
+      font-weight: bold;
+      cursor: pointer;
+      font: inherit;
+      font-weight: 600;
+    }
+    button:hover { background: #0e7490; }
+    button:disabled { opacity: 0.6; cursor: not-allowed; }
+
+    .result {
+      margin-top: 20px;
+      padding: 18px;
+      background: #0f172a;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      overflow-wrap: anywhere;
+    }
+    .result p { line-height: 1.6; margin: 6px 0; }
+    .result .big { font-size: 24px; font-weight: bold; color: #67e8f9; font-variant-numeric: tabular-nums; }
+
+    .model-info { margin-top: 14px; }
+
+    footer {
+      margin-top: 35px;
+      padding-top: 18px;
+      border-top: 1px solid #334155;
+    }
+
+    @media (max-width: 600px) {
+      body { padding: 16px; }
+    }
+  </style>
+</head>
+
+<body>
+<main>
+
+  <header>
+    <h1>MLHydro</h1>
+    <p>ML-Based Hydrogen Safety and Optimization System</p>
+    <p class="muted">
+      Firebase sensor monitoring and experimental fatigue crack-growth prediction
+      for pipeline and structural alloys in hydrogen.
+    </p>
+  </header>
+
+  <!-- SENSOR MONITORING -->
+  <section>
+    <h2>Sensor Monitor <span class="badge" id="sourceBadge">Firebase</span></h2>
+
+    <div class="grid">
+      <div class="card">
+        <h3>Hydrogen Concentration</h3>
+        <div class="value" id="gas">-- ppm</div>
+        <p class="muted">Source: Firebase Realtime Database</p>
+      </div>
+
+      <div class="card">
+        <h3>Temperature</h3>
+        <div class="value" id="temperature">-- °C</div>
+        <p class="muted">Source: Firebase Realtime Database</p>
+      </div>
+
+      <div class="card">
+        <h3>Database Status</h3>
+        <div class="value" id="sensorStatus">Connecting...</div>
+        <p class="muted" id="updated">Waiting for Firebase data</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- FATIGUE PREDICTION -->
+  <section class="section">
+    <h2>Fatigue Crack-Growth Prediction <span class="badge" id="apiBadge">API: checking…</span></h2>
+    <p class="muted">
+      Pick a material and one of the environments it was actually tested in.
+      Options come from the trained model, so every input is one the model has seen.
+    </p>
+
+    <div class="card">
+      <form id="predictionForm">
+        <div>
+          <label for="material">Material</label>
+          <select id="material" required disabled></select>
+        </div>
+
+        <div>
+          <label for="environment">Environment</label>
+          <select id="environment" required disabled></select>
+          <span class="hint">Gas: pressure (MPa) / temperature</span>
+        </div>
+
+        <div>
+          <label for="pressure">Pressure (MPa)</label>
+          <input id="pressure" type="number" readonly>
+          <span class="hint">Set by the environment</span>
+        </div>
+
+        <div>
+          <label for="deltaK">ΔK, stress-intensity range (MPa√m)</label>
+          <input id="deltaK" type="number" min="0.000001" max="10000" step="any" required>
+          <span class="hint" id="deltaKHint"></span>
+        </div>
+
+        <div>
+          <label for="rRatio">Load ratio R</label>
+          <select id="rRatio" required disabled></select>
+        </div>
+
+        <div>
+          <label for="frequency">Frequency (Hz)</label>
+          <select id="frequency" required disabled></select>
+        </div>
+
+        <div>
+          <label for="orientation">Specimen orientation</label>
+          <select id="orientation" required disabled></select>
+        </div>
+
+        <div>
+          <label for="testMethod">Test method</label>
+          <select id="testMethod" required disabled></select>
+        </div>
+
+        <div class="actions">
+          <button type="submit" id="predictButton" disabled>Predict crack growth</button>
+        </div>
+      </form>
+
+      <div class="result" id="predictionResult" aria-live="polite">
+        Loading model options…
+      </div>
+
+      <p class="muted model-info" id="modelInfo"></p>
+    </div>
+  </section>
+
+  <footer>
+    <p class="warning">
+      Research prototype only. Sensor values may be simulated.
+      This dashboard is not a certified hydrogen detection system.
+      ML predictions must not be used alone for material approval,
+      equipment certification, leak detection, or safety decisions.
+    </p>
+  </footer>
+
+</main>
+
+  <!-- FASTAPI FATIGUE PREDICTION -->
+  <script>
+    // Where the FastAPI backend lives.
+    //  - Served by FastAPI itself (http://127.0.0.1:8000/): same origin.
+    //  - Opened as a local file: falls back to http://127.0.0.1:8000.
+    //  - Hosted elsewhere (e.g. GitHub Pages): set DEPLOYED_API_URL below,
+    //    or add ?api=https://your-api.example.com to the page URL.
+    const DEPLOYED_API_URL = "";
+
+    const params = new URLSearchParams(location.search);
+    // Opened as a file, or from another local server (e.g. VS Code Live Server)
+    const openedLocally =
+      location.protocol === "file:" ||
+      (["localhost", "127.0.0.1"].includes(location.hostname) && location.port !== "8000");
+    const API = (
+      params.get("api") ||
+      DEPLOYED_API_URL ||
+      (openedLocally ? "http://127.0.0.1:8000" : location.origin)
+    ).replace(/\/$/, "");
+
+    const $ = (id) => document.getElementById(id);
+    const result = $("predictionResult");
+    let conditions = [];
+
+    function fillSelect(select, values, format = String) {
+      const previous = select.value;
+      select.replaceChildren(
+        ...values.map((v) => {
+          const option = document.createElement("option");
+          option.value = String(v);
+          option.textContent = format(v);
+          return option;
+        })
+      );
+      if (values.map(String).includes(previous)) select.value = previous;
+      select.disabled = values.length === 0;
+    }
+
+    function currentCondition() {
+      return conditions.find(
+        (c) => c.material === $("material").value &&
+               c.environment === $("environment").value
+      );
+    }
+
+    function onMaterialChange() {
+      const envs = conditions
+        .filter((c) => c.material === $("material").value)
+        .map((c) => c.environment);
+      fillSelect($("environment"), envs);
+      onEnvironmentChange();
+    }
+
+    function onEnvironmentChange() {
+      const c = currentCondition();
+      if (!c) return;
+      $("pressure").value = c.pressure_mpa;
+      fillSelect($("rRatio"), c.r_ratios);
+      fillSelect($("frequency"), c.frequencies_hz);
+      fillSelect($("orientation"), c.orientations);
+      fillSelect($("testMethod"), c.test_methods);
+
+      const [low, high] = c.delta_k_range;
+      $("deltaKHint").textContent =
+        `Tested range: ${low} – ${high} (${c.records} measurements)`;
+      const dk = Number($("deltaK").value);
+      if (!$("deltaK").value || dk < low || dk > high) {
+        $("deltaK").value = Number(((low + high) / 2).toFixed(2));
+      }
+    }
+
+    async function loadOptions() {
+      try {
+        const response = await fetch(`${API}/model/options`);
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const data = await response.json();
+        conditions = data.tested_conditions;
+
+        const materials = [...new Set(conditions.map((c) => c.material))];
+        fillSelect($("material"), materials);
+        onMaterialChange();
+
+        $("predictButton").disabled = false;
+        $("apiBadge").textContent = "API: connected";
+        $("apiBadge").className = "badge";
+        result.textContent = "Choose the conditions and click Predict crack growth.";
+
+        const v = data.validation;
+        $("modelInfo").textContent =
+          `${data.model}, trained on ${data.training_records} measurements.` +
+          (v
+            ? ` On held-out material/environment groups, mean absolute error is ` +
+              `${v.mean_mae_log10.toFixed(2)} in log10(da/dN), i.e. predictions are typically ` +
+              `within about ${Math.round(10 ** v.mean_mae_log10)}× of the measured rate.`
+            : "");
+      } catch (error) {
+        $("apiBadge").textContent = "API: offline";
+        $("apiBadge").className = "badge sim";
+        result.className = "result error";
+        result.textContent =
+          `Could not reach the prediction API at ${API} (${error.message}). ` +
+          "Start it with: uvicorn backend.main:app --reload";
+      }
+    }
+
+    $("material").addEventListener("change", onMaterialChange);
+    $("environment").addEventListener("change", onEnvironmentChange);
+
+    $("predictionForm").addEventListener("submit", async (event) => {
+      event.preventDefault();
+      const button = $("predictButton");
+
+      const payload = {
+        material: $("material").value,
+        environment: $("environment").value,
+        pressure_mpa: Number($("pressure").value),
+        delta_k_mpa_sqrt_m: Number($("deltaK").value),
+        r_ratio: Number($("rRatio").value),
+        frequency_hz: Number($("frequency").value),
+        orientation: $("orientation").value,
+        test_method: $("testMethod").value,
+      };
+
+      button.disabled = true;
+      result.className = "result";
+      result.textContent = "Requesting prediction…";
+
+      try {
+        const response = await fetch(`${API}/predict/fatigue`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify(payload),
+        });
+        const data = await response.json();
+
+        if (!response.ok) {
+          const detail = data.detail;
+          throw new Error(
+            typeof detail === "string"
+              ? detail
+              : Array.isArray(detail)
+                ? detail.map((d) => `${d.loc?.at(-1)}: ${d.msg}`).join("; ")
+                : JSON.stringify(data)
+          );
+        }
+
+        const add = (tag, text, className) => {
+          const el = document.createElement(tag);
+          el.textContent = text;
+          if (className) el.className = className;
+          result.appendChild(el);
+        };
+
+        result.replaceChildren();
+        add("h3", "Predicted crack-growth rate (da/dN)");
+        add("p", `${Number(data.predicted_da_dn_m_per_cycle).toExponential(3)} ${data.unit}`, "big");
+        add("p", `log10 rate: ${data.predicted_log10_da_dn}   ·   Model: ${data.model}   ·   Status: ${data.status}`, "muted");
+        for (const note of data.notes || []) add("p", `⚠ ${note}`, "warning");
+        add("p", data.warning, "warning");
+      } catch (error) {
+        result.className = "result error";
+        result.textContent = "Prediction failed: " + error.message;
+      } finally {
+        button.disabled = false;
+      }
+    });
+
+    loadOptions();
+  </script>
+
+  <!-- FIREBASE REALTIME DATABASE -->
+  <script type="module">
+    import { initializeApp } from
+      "https://www.gstatic.com/firebasejs/12.0.0/firebase-app.js";
+    import { getDatabase, ref, onValue } from
+      "https://www.gstatic.com/firebasejs/12.0.0/firebase-database.js";
+
+    // Firebase web config is public by design; access is controlled by the
+    // database security rules (see firebase/database.rules.json).
+    const firebaseConfig = {
+      apiKey: "AIzaSyAxkx5OQJBNX5uc-33vE6JFq_kSj85bEIs",
+      authDomain: "ecoflux-16700.firebaseapp.com",
+      databaseURL: "https://ecoflux-16700-default-rtdb.firebaseio.com",
+      projectId: "ecoflux-16700",
+      storageBucket: "ecoflux-16700.firebasestorage.app",
+      messagingSenderId: "707870296836",
+      appId: "1:707870296836:web:481e41d74bb226c86a9e51",
+      measurementId: "G-8S76S161N5",
+    };
+
+    const sensorStatus = document.getElementById("sensorStatus");
+    const updated = document.getElementById("updated");
+    const sourceBadge = document.getElementById("sourceBadge");
+
+    function showDatabaseError(message) {
+      sensorStatus.textContent = "Error";
+      sensorStatus.className = "value error";
+      updated.textContent = message;
+    }
+
+    try {
+      const app = initializeApp(firebaseConfig);
+      const database = getDatabase(app);
+      const sensorRef = ref(database, "sensor_data/latest");
+
+      onValue(sensorRef, (snapshot) => {
+        const data = snapshot.val();
+
+        if (!data) {
+          sensorStatus.textContent = "No Data";
+          sensorStatus.className = "value error";
+          updated.textContent = "No data found at sensor_data/latest";
+          return;
+        }
+
+        const gas = Number(data.hydrogen_concentration_ppm);
+        const temperature = Number(data.temperature_c);
+
+        if (
+          data.hydrogen_concentration_ppm == null ||
+          data.temperature_c == null ||
+          !Number.isFinite(gas) ||
+          !Number.isFinite(temperature)
+        ) {
+          showDatabaseError("Missing or invalid numeric sensor values.");
+          return;
+        }
+
+        document.getElementById("gas").textContent = gas.toFixed(2) + " ppm";
+        document.getElementById("temperature").textContent = temperature.toFixed(2) + " °C";
+
+        sensorStatus.textContent = "Connected";
+        sensorStatus.className = "value good";
+
+        if (data.is_simulated) {
+          sourceBadge.textContent = "Simulated data";
+          sourceBadge.className = "badge sim";
+        } else {
+          sourceBadge.textContent = "Live";
+          sourceBadge.className = "badge";
+        }
+
+        updated.textContent = data.timestamp
+          ? "Reading timestamp: " + data.timestamp
+          : "Firebase data received";
+      }, (error) => {
+        showDatabaseError("Database read failed: " + error.message);
+      });
+    } catch (error) {
+      showDatabaseError("Firebase initialization failed: " + error.message);
+    }
+  </script>
+
+</body>
+</html>
