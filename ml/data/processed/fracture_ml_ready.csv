@@ -1,0 +1,4 @@
+workbook,material,form,temper,test_row,test_label,environment,pressure_mpa,temperature,orientation,test_method,test_rate,yield_strength_mpa,jic_kj_m2,kic_mpa_sqrt_m,jic_original,kic_original,source_sheet
+1100cia85tenfrafat.xlsx,X42,line pipe,,7,Reference,N2,6.9,RT,CL,ASTM E813-81,2.5E-6 to 2.5E-7 m/s,311.0,140.0,174.09104602963447,140†,174.09104602963447,Mechanical Properties-Fracture
+1100cia85tenfrafat.xlsx,X42,line pipe,,9,gas environment no. 1,H2,6.9,RT,CL,ASTM E813-81,2.5E-6 to 2.5E-7 m/s,338.0,50.0,104.03929942178496,50,104.03929942178496,Mechanical Properties-Fracture
+3230san11frafat.xlsx,7475,plate,T7351,7,Reference,air,0.1,RT,SL/ST,ASTM E1820,n/r,407.0,26.0,44.0,26,44,Mechanical Properties-Fracture

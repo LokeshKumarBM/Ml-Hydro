@@ -1,0 +1,161 @@
+{
+  "model": "Ridge regression (alpha=1.0)",
+  "target": "log10(da_dn_m_per_cycle)",
+  "numeric_features": [
+    "pressure_mpa",
+    "delta_k_mpa_sqrt_m",
+    "r_ratio",
+    "frequency_hz"
+  ],
+  "categorical_features": [
+    "material",
+    "environment",
+    "orientation",
+    "test_method"
+  ],
+  "training_records": 591,
+  "sklearn_version": "1.9.1",
+  "materials": [
+    "4130X",
+    "7475",
+    "X42"
+  ],
+  "environments": [
+    "H2: 103 / RT",
+    "H2: 45 / RT",
+    "H2: 6.9 / RT",
+    "N2: 6.9 / RT",
+    "air: 0.1 / RT"
+  ],
+  "orientations": [
+    "CL",
+    "SL/ST"
+  ],
+  "test_methods": [
+    "ASTM E647",
+    "ASTM E647-83"
+  ],
+  "tested_conditions": [
+    {
+      "material": "4130X",
+      "environment": "H2: 45 / RT",
+      "pressure_mpa": 45.0,
+      "orientations": [
+        "CL"
+      ],
+      "test_methods": [
+        "ASTM E647"
+      ],
+      "r_ratios": [
+        0.1,
+        0.5
+      ],
+      "frequencies_hz": [
+        0.1,
+        1.0
+      ],
+      "delta_k_range": [
+        9.059,
+        33.452
+      ],
+      "records": 271
+    },
+    {
+      "material": "7475",
+      "environment": "H2: 103 / RT",
+      "pressure_mpa": 103.0,
+      "orientations": [
+        "SL/ST"
+      ],
+      "test_methods": [
+        "ASTM E647"
+      ],
+      "r_ratios": [
+        0.3
+      ],
+      "frequencies_hz": [
+        1.0
+      ],
+      "delta_k_range": [
+        4.91,
+        11.04
+      ],
+      "records": 58
+    },
+    {
+      "material": "7475",
+      "environment": "air: 0.1 / RT",
+      "pressure_mpa": 0.1,
+      "orientations": [
+        "SL/ST"
+      ],
+      "test_methods": [
+        "ASTM E647"
+      ],
+      "r_ratios": [
+        0.3
+      ],
+      "frequencies_hz": [
+        1.0
+      ],
+      "delta_k_range": [
+        4.49,
+        10.088
+      ],
+      "records": 53
+    },
+    {
+      "material": "X42",
+      "environment": "H2: 6.9 / RT",
+      "pressure_mpa": 6.9,
+      "orientations": [
+        "CL"
+      ],
+      "test_methods": [
+        "ASTM E647-83"
+      ],
+      "r_ratios": [
+        0.1,
+        0.8
+      ],
+      "frequencies_hz": [
+        1.0
+      ],
+      "delta_k_range": [
+        3.888,
+        20.809
+      ],
+      "records": 94
+    },
+    {
+      "material": "X42",
+      "environment": "N2: 6.9 / RT",
+      "pressure_mpa": 6.9,
+      "orientations": [
+        "CL"
+      ],
+      "test_methods": [
+        "ASTM E647-83"
+      ],
+      "r_ratios": [
+        0.1,
+        0.8
+      ],
+      "frequencies_hz": [
+        5.0
+      ],
+      "delta_k_range": [
+        3.857,
+        64.122
+      ],
+      "records": 115
+    }
+  ],
+  "validation": {
+    "method": "Leave-one-group-out (material|environment)",
+    "folds": 5,
+    "mean_mae_log10": 0.4651,
+    "mean_r2": 0.1317
+  },
+  "purpose": "Exploratory fatigue crack-growth research only"
+}

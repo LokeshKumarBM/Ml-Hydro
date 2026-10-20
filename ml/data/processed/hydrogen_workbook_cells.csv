@@ -1,0 +1,1928 @@
+﻿workbook,sheet,row_number,column_number,column_letter,cell_value
+1100cia85tenfrafat.xlsx,Material,1,1,A,X42
+1100cia85tenfrafat.xlsx,Material,1,2,B,common name
+1100cia85tenfrafat.xlsx,Material,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Material,2,4,D,Specifications
+1100cia85tenfrafat.xlsx,Material,2,5,E,API-5LX
+1100cia85tenfrafat.xlsx,Material,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Material,3,2,B,Form
+1100cia85tenfrafat.xlsx,Material,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Material,5,4,D,Composition
+1100cia85tenfrafat.xlsx,Material,5,5,E,Fe
+1100cia85tenfrafat.xlsx,Material,5,6,F,Cr
+1100cia85tenfrafat.xlsx,Material,5,7,G,Ni
+1100cia85tenfrafat.xlsx,Material,5,8,H,Mn
+1100cia85tenfrafat.xlsx,Material,5,9,I,Mo
+1100cia85tenfrafat.xlsx,Material,5,10,J,Nb
+1100cia85tenfrafat.xlsx,Material,5,11,K,Ti
+1100cia85tenfrafat.xlsx,Material,5,12,L,V
+1100cia85tenfrafat.xlsx,Material,5,13,M,Al
+1100cia85tenfrafat.xlsx,Material,5,14,N,Cu
+1100cia85tenfrafat.xlsx,Material,5,15,O,Si
+1100cia85tenfrafat.xlsx,Material,5,16,P,C
+1100cia85tenfrafat.xlsx,Material,5,17,Q,N
+1100cia85tenfrafat.xlsx,Material,5,18,R,B
+1100cia85tenfrafat.xlsx,Material,5,19,S,S
+1100cia85tenfrafat.xlsx,Material,5,20,T,P
+1100cia85tenfrafat.xlsx,Material,6,5,E,bal
+1100cia85tenfrafat.xlsx,Material,6,6,F,n/r
+1100cia85tenfrafat.xlsx,Material,6,7,G,n/r
+1100cia85tenfrafat.xlsx,Material,6,8,H,0.82
+1100cia85tenfrafat.xlsx,Material,6,9,I,n/r
+1100cia85tenfrafat.xlsx,Material,6,10,J,n/r
+1100cia85tenfrafat.xlsx,Material,6,11,K,n/r
+1100cia85tenfrafat.xlsx,Material,6,12,L,n/r
+1100cia85tenfrafat.xlsx,Material,6,13,M,0.004
+1100cia85tenfrafat.xlsx,Material,6,14,N,0.022
+1100cia85tenfrafat.xlsx,Material,6,15,O,0.014
+1100cia85tenfrafat.xlsx,Material,6,16,P,0.26
+1100cia85tenfrafat.xlsx,Material,6,17,Q,n/r
+1100cia85tenfrafat.xlsx,Material,6,18,R,n/r
+1100cia85tenfrafat.xlsx,Material,6,19,S,0.028
+1100cia85tenfrafat.xlsx,Material,6,20,T,0.02
+1100cia85tenfrafat.xlsx,Material,8,4,D,Temper
+1100cia85tenfrafat.xlsx,Material,8,5,E,Designation
+1100cia85tenfrafat.xlsx,Material,8,6,F,Microstructure
+1100cia85tenfrafat.xlsx,Material,8,8,H,Processing
+1100cia85tenfrafat.xlsx,Material,8,12,L,Tensile Properties
+1100cia85tenfrafat.xlsx,Material,8,13,M,Yield strength† (MPa)
+1100cia85tenfrafat.xlsx,Material,8,14,N,Tensile strength (MPa)
+1100cia85tenfrafat.xlsx,Material,8,15,O,Elongation‡ (%)
+1100cia85tenfrafat.xlsx,Material,8,16,P,"Reduction of Area 
+(%)"
+1100cia85tenfrafat.xlsx,Material,8,17,Q,Orientation
+1100cia85tenfrafat.xlsx,Material,9,5,E,X42
+1100cia85tenfrafat.xlsx,Material,9,6,F,banded ferrite + pearlite; elongated MnS inclusions
+1100cia85tenfrafat.xlsx,Material,9,8,H,"pipe: 305 mm OD, 9.5 mm thickness"
+1100cia85tenfrafat.xlsx,Material,9,13,M,366
+1100cia85tenfrafat.xlsx,Material,9,14,N,511
+1100cia85tenfrafat.xlsx,Material,9,15,O,21
+1100cia85tenfrafat.xlsx,Material,9,16,P,56
+1100cia85tenfrafat.xlsx,Material,9,17,Q,L (axial)
+1100cia85tenfrafat.xlsx,Material,10,13,M,311
+1100cia85tenfrafat.xlsx,Material,10,14,N,490
+1100cia85tenfrafat.xlsx,Material,10,15,O,21
+1100cia85tenfrafat.xlsx,Material,10,16,P,52
+1100cia85tenfrafat.xlsx,Material,10,17,Q,T
+1100cia85tenfrafat.xlsx,Material,12,13,M,† 0.2% offset
+1100cia85tenfrafat.xlsx,Material,13,13,M,‡ Elongation in 25 mm
+1100cia85tenfrafat.xlsx,Material,15,5,E,short
+1100cia85tenfrafat.xlsx,Material,15,6,F,full
+1100cia85tenfrafat.xlsx,Material,16,4,D,References
+1100cia85tenfrafat.xlsx,Material,16,5,E,1
+1100cia85tenfrafat.xlsx,Material,16,6,F,HJ Cialone and JH Holbrook. Effects of gaseous hydrogen on fatigue crack growth in pipeline steel. Metall Trans 16A (1985) 115-122.
+1100cia85tenfrafat.xlsx,Material,17,5,E,2
+1100cia85tenfrafat.xlsx,Material,18,5,E,3
+1100cia85tenfrafat.xlsx,Environment,1,1,A,X42
+1100cia85tenfrafat.xlsx,Environment,1,2,B,common name
+1100cia85tenfrafat.xlsx,Environment,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Environment,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Environment,3,2,B,Form
+1100cia85tenfrafat.xlsx,Environment,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Environment,5,4,D,Testing in Gaseous Hydrogen
+1100cia85tenfrafat.xlsx,Environment,7,4,D,Temperature (˚C)
+1100cia85tenfrafat.xlsx,Environment,7,5,E,RT
+1100cia85tenfrafat.xlsx,Environment,7,6,F,RT
+1100cia85tenfrafat.xlsx,Environment,7,7,G,RT
+1100cia85tenfrafat.xlsx,Environment,8,4,D,Pressure (MPa)
+1100cia85tenfrafat.xlsx,Environment,8,5,E,0.1
+1100cia85tenfrafat.xlsx,Environment,8,6,F,6.9
+1100cia85tenfrafat.xlsx,Environment,8,7,G,6.9
+1100cia85tenfrafat.xlsx,Environment,8,8,H,30
+1100cia85tenfrafat.xlsx,Environment,8,9,I,40
+1100cia85tenfrafat.xlsx,Environment,9,4,D,test environment
+1100cia85tenfrafat.xlsx,Environment,9,5,E,air
+1100cia85tenfrafat.xlsx,Environment,9,6,F,N2
+1100cia85tenfrafat.xlsx,Environment,9,7,G,H2
+1100cia85tenfrafat.xlsx,Environment,9,8,H,H2
+1100cia85tenfrafat.xlsx,Environment,9,9,I,H2
+1100cia85tenfrafat.xlsx,Environment,10,5,E,[ref. env.]
+1100cia85tenfrafat.xlsx,Environment,10,6,F,[ref. env. 2]
+1100cia85tenfrafat.xlsx,Environment,10,7,G,[env. 2]
+1100cia85tenfrafat.xlsx,Environment,10,8,H,[env. 3]
+1100cia85tenfrafat.xlsx,Environment,10,9,I,[env. 4]
+1100cia85tenfrafat.xlsx,Environment,12,4,D,"Gas Purity 
+(ppm v/v)"
+1100cia85tenfrafat.xlsx,Environment,12,5,E,O2
+1100cia85tenfrafat.xlsx,Environment,12,6,F,H2O
+1100cia85tenfrafat.xlsx,Environment,12,7,G,N2
+1100cia85tenfrafat.xlsx,Environment,12,8,H,CO2
+1100cia85tenfrafat.xlsx,Environment,13,5,E,n/r
+1100cia85tenfrafat.xlsx,Environment,13,6,F,n/r
+1100cia85tenfrafat.xlsx,Environment,13,7,G,n/r
+1100cia85tenfrafat.xlsx,Environment,13,8,H,n/r
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,1,1,A,X42
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,1,2,B,common name
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,3,2,B,Form
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,4,D,Tensile Properties
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,6,F,"Environment 
+[ Press. / Temp. ] 
+(MPa) / (˚C)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,7,G,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,8,H,"Strain rate 
+(s-1)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,9,I,Yield strength† (MPa)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,10,J,Tensile strength (MPa)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,11,K,Uniform Elongation (%)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,12,L,Elongation‡ (%)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,13,M,"Reduction of Area 
+(%)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,5,14,N,Ref.
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,4,D,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,6,F,air: 0.1 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,7,G,L (axial)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,8,H,0.0001
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,9,I,366
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,10,J,511
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,11,K,n/r
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,12,L,21
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,13,M,56
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,7,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,4,D,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,6,F,air: 0.1 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,7,G,T
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,8,H,0.0001
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,9,I,311
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,10,J,490
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,11,K,n/r
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,12,L,21
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,13,M,52
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,8,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,4,D,gas environment no. 1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,6,F,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,7,G,L (axial)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,8,H,0.0001
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,9,I,331
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,10,J,483
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,11,K,n/r
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,12,L,20
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,13,M,44
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,10,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,4,D,gas environment no. 1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,6,F,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,7,G,T
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,8,H,0.0001
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,9,I,338
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,10,J,476
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,11,K,n/r
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,12,L,19
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,13,M,41
+1100cia85tenfrafat.xlsx,Mechanical Properties-Tensile,11,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,1,1,A,X42
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,1,2,B,common name
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,3,2,B,Form
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,4,D,Fracture Properties
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,6,F,"Environment 
+[ Press. / Temp. ] 
+(MPa) / (˚C)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,7,G,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,8,H,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,9,I,"Test rate 
+(MPa m1/2 per second)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,10,J,Yield strength (MPa)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,11,K,"JIC 
+(kJ/m2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,12,L,"KIC 
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,5,13,M,Ref.
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,4,D,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,6,F,N2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,7,G,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,8,H,ASTM E813-81
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,9,I,2.5E-6 to 2.5E-7 m/s
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,10,J,311
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,11,K,140†
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,12,L,174.09104602963447
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,7,13,M,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,4,D,gas environment no. 1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,6,F,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,7,G,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,8,H,ASTM E813-81
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,9,I,2.5E-6 to 2.5E-7 m/s
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,10,J,338
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,11,K,50
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,12,L,104.03929942178496
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,9,13,M,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,11,11,K,† JQ: thickness
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,12,12,L,KIC = (JIC*E/(1-v2))1/2
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,13,11,K,E (GPa) =
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,13,12,L,197
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,14,11,K,v =
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fracture,14,12,L,0.3
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,1,1,A,X42
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,1,2,B,common name
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,3,2,B,Form
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,4,D,Environment [ Press. / Temp. ] (MPa / ˚C)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,5,E,Environment
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,6,F,N2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,8,H,Environment
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,9,I,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,11,K,Environment
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,12,L,N2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,14,N,Environment
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,5,15,O,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,5,E,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,6,F,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,8,H,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,9,I,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,11,K,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,12,L,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,14,N,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,6,15,O,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,5,E,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,6,F,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,8,H,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,9,I,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,11,K,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,12,L,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,14,N,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,7,15,O,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,5,E,R-ratio
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,6,F,0.1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,8,H,R-ratio
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,9,I,0.1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,11,K,R-ratio
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,12,L,0.8
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,14,N,R-ratio
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,8,15,O,0.8
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,5,E,Frequency (Hz)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,6,F,5
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,8,H,Frequency (Hz)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,9,I,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,11,K,Frequency (Hz)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,12,L,5
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,14,N,Frequency (Hz)
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,9,15,O,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,5,E,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,6,F,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,8,H,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,9,I,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,11,K,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,12,L,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,14,N,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,10,15,O,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,4,D,Fatigue Properties
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,5,E,"∆K
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,6,F,"da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,8,H,"∆K
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,9,I,"da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,11,K,"∆K
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,12,L,"da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,14,N,"∆K
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,12,15,O,"da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,5,E,6.55976
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,6,F,8.47705e-10
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,8,H,6.64842
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,9,I,8.98527e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,11,K,3.85704
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,12,L,1.37041e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,14,N,3.88816
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,14,15,O,2.15017e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,5,E,6.56011
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,6,F,9.53915e-10
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,8,H,6.64872
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,9,I,9.92909e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,11,K,3.92119
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,12,L,1.30999e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,14,N,4.0178
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,15,15,O,3.02768e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,5,E,6.61475
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,6,F,1.0637e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,8,H,6.78761
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,9,I,1.13772e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,11,K,4.03557
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,12,L,1.5685e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,14,N,4.03455
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,16,15,O,2.7668e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,5,E,7.00824
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,6,F,1.22982e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,8,H,6.87094
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,9,I,7.84037e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,11,K,4.08618
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,12,L,1.24091e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,14,N,4.16909
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,17,15,O,3.86103e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,5,E,7.00869
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,6,F,1.42212e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,8,H,6.89916
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,9,I,7.42456e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,11,K,4.10227
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,12,L,1.89508e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,14,N,4.18602
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,18,15,O,4.5e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,5,E,7.03742
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,6,F,1.32247e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,8,H,6.92808
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,9,I,8.5078e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,11,K,4.1878
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,12,L,1.73171e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,14,N,4.18656
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,19,15,O,3.37294e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,5,E,7.30481
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,6,F,2.00787e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,8,H,7.1314
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,9,I,9.8373e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,11,K,4.18799
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,12,L,1.56832e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,14,N,4.22012
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,20,15,O,5.94968e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,5,E,7.48828
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,6,F,2.34285e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,8,H,7.25193
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,9,I,1.79112e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,11,K,4.18828
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,12,L,1.34562e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,14,N,4.27305
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,21,15,O,4.66484e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,5,E,7.58215
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,6,F,2.86078e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,8,H,7.2813
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,9,I,1.49365e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,11,K,4.20467
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,12,L,2.16913e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,14,N,4.34341
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,22,15,O,6.45165e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,5,E,7.70795
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,6,F,2.63616e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,8,H,7.43407
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,9,I,2.08993e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,11,K,4.20482
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,12,L,2.00019e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,14,N,4.36159
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,23,15,O,5.68707e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,5,E,7.96742
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,6,F,3.49283e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,8,H,7.46436
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,9,I,1.84042e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,11,K,4.34586
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,12,L,1.82769e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,14,N,4.36173
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,24,15,O,5.29161e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,5,E,8.03404
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,6,F,4.18828e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,8,H,7.58909
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,9,I,2.20681e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,11,K,4.38123
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,12,L,2.46042e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,14,N,4.50722
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,25,15,O,7.25249e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,5,E,8.10085
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,6,F,4.54482e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,8,H,7.77945
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,9,I,2.39456e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,11,K,4.41774
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,12,L,2.14936e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,14,N,4.67699
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,26,15,O,9.00208e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,5,E,8.373
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,6,F,5.20747e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,8,H,7.97445
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,9,I,2.50559e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,11,K,4.45473
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,12,L,1.71587e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,14,N,4.67733
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,27,15,O,7.65448e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,5,E,8.90849
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,6,F,7.28543e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,8,H,8.20867
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,9,I,3.05935e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,11,K,4.49032
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,12,L,3.22371e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,14,N,4.93466
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,28,15,O,7.51662e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,5,E,9.67348
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,6,F,6.18539e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,8,H,8.51877
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,9,I,2.89682e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,11,K,4.5273
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,12,L,3.49591e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,14,N,5.07759
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,29,15,O,1.41211e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,5,E,9.67422
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,6,F,7.3501e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,8,H,8.55466
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,9,I,3.47365e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,11,K,4.6603
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,12,L,2.66774e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,14,N,5.09935
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,30,15,O,9.93738e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,5,E,10.33348
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,6,F,6.71079e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,8,H,8.62651
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,9,I,4.51997e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,11,K,4.71791
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,12,L,3.1373e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,14,N,5.26921
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,31,15,O,1.50387e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,5,E,10.72441
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,6,F,7.1504e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,8,H,8.69779
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,9,I,4.35864e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,11,K,4.73713
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,12,L,3.52707e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,14,N,5.29149
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,32,15,O,1.20058e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,5,E,10.85925
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,6,F,9.47462e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,8,H,8.69839
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,9,I,5.08616e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,11,K,4.89548
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,12,L,4.14763e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,14,N,5.42331
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,33,15,O,1.53108e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,5,E,10.99301
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,6,F,7.14987e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,8,H,8.76955
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,9,I,4.09012e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,11,K,4.99707
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,12,L,4.7049e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,14,N,5.51247
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,34,15,O,2.23516e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,5,E,11.55074
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,6,F,7.41325e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,8,H,9.1788
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,9,I,7.3124e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,11,K,5.07986
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,12,L,5.19479e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,14,N,5.60459
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,35,15,O,1.80046e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,5,E,11.74242
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,6,F,6.8935e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,8,H,9.25315
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,9,I,4.90385e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,11,K,5.16436
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,12,L,4.96574e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,14,N,5.60468
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,36,15,O,1.73674e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,5,E,12.03925
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,6,F,1.14615e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,8,H,9.56549
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,9,I,7.93411e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,11,K,5.18525
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,12,L,5.94609e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,14,N,5.60491
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,37,15,O,1.58711e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,5,E,12.59965
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,6,F,1.58909e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,8,H,9.92632
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,9,I,6.67613e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,11,K,5.44784
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,12,L,6.33223e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,14,N,5.67417
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,38,15,O,1.88335e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,5,E,12.65078
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,6,F,1.34946e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,8,H,9.96777
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,9,I,7.3773e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,11,K,5.6533
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,12,L,7.11825e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,14,N,5.76797
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,39,15,O,2.25509e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,5,E,13.29164
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,6,F,1.1882e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,8,H,10.0105
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,9,I,1.0417e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,11,K,5.67703
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,12,L,6.10736e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,14,N,5.83919
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,40,15,O,2.72466e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,5,E,13.62631
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,6,F,1.58872e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,8,H,10.26263
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,9,I,1.41837e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,11,K,5.96315
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,12,L,1.08692e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,14,N,5.96118
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,41,15,O,2.27527e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,5,E,14.08483
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,6,F,2.04844e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,8,H,10.47672
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,9,I,1.52515e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,11,K,6.1627
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,12,L,1.17861e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,14,N,6.23657
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,42,15,O,3.17499e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,5,E,14.37878
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,6,F,2.24301e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,8,H,10.74108
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,9,I,2.29475e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,11,K,6.21283
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,12,L,1.60099e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,14,N,6.6062
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,43,15,O,3.87032e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,5,E,14.92251
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,6,F,2.3047e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,8,H,10.96492
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,9,I,2.35798e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,11,K,6.21306
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,12,L,1.4763e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,14,N,6.74326
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,44,15,O,4.43007e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,5,E,15.04655
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,6,F,2.47829e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,8,H,11.19526
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,9,I,3.48404e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,11,K,6.4488
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,12,L,1.01111e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,14,N,6.93963
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,45,15,O,5.90986e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,5,E,15.61585
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,6,F,2.66472e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,8,H,11.57226
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,9,I,4.74372e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,11,K,6.52836
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,12,L,1.25512e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,14,N,7.34949
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,46,15,O,1.12021e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,5,E,16.07361
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,6,F,2.86525e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,8,H,12.05909
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,9,I,4.53261e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,11,K,6.85808
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,12,L,1.78326e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,14,N,7.62543
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,47,15,O,1.8056e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,5,E,16.88381
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,6,F,1.47647e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,8,H,12.06046
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,9,I,5.84475e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,11,K,7.29604
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,12,L,1.373e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,14,N,7.90533
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,48,15,O,1.77984e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,5,E,17.16477
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,6,F,1.51717e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,8,H,12.46573
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,9,I,6.81965e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,11,K,7.79098
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,12,L,2.51033e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,14,N,10.49445
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,49,15,O,1.3623e-05
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,5,E,17.74099
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,6,F,1.6462e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,8,H,12.72987
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,9,I,1.50251e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,11,K,7.85546
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,12,L,2.48776e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,14,N,12.31889
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,50,15,O,3.03592e-05
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,5,E,18.56544
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,6,F,1.93824e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,8,H,12.83162
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,9,I,7.95727e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,11,K,8.42322
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,51,12,L,4.27048e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,5,E,19.03428
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,6,F,3.05175e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,8,H,12.93907
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,9,I,9.80513e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,11,K,8.99801
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,52,12,L,3.37803e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,5,E,19.75655
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,6,F,4.15508e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,8,H,13.37605
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,9,I,1.64509e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,11,K,9.07379
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,53,12,L,2.4204e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,5,E,20.2535
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,6,F,5.26112e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,8,H,13.48608
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,9,I,1.46189e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,11,K,9.22361
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,54,12,L,3.03166e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,5,E,20.93375
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,6,F,5.91972e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,8,H,13.93717
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,9,I,1.21899e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,11,K,9.57115
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,55,12,L,3.66268e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,5,E,21.46057
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,6,F,7.70247e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,8,H,13.99628
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,9,I,1.55765e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,11,K,10.38559
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,56,12,L,1.82029e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,5,E,22.08984
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,6,F,8.43389e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,8,H,14.05216
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,9,I,1.1439e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,11,K,11.84599
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,57,12,L,3.12414e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,5,E,23.79507
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,6,F,1.17989e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,8,H,14.11377
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,9,I,2.00852e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,11,K,12.24315
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,58,12,L,2.95946e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,5,E,24.69849
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,6,F,1.68108e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,8,H,14.64713
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,9,I,1.95433e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,11,K,12.96978
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,59,12,L,3.04002e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,5,E,25.63589
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,6,F,2.3308e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,8,H,14.76786
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,9,I,1.80093e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,11,K,17.72496
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,60,12,L,1.45638e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,5,E,26.60564
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,6,F,2.46104e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,8,H,15.391
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,9,I,2.25959e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,11,K,19.88823
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,61,12,L,2.18371e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,5,E,27.4989
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,6,F,2.69471e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,8,H,15.45609
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,9,I,2.80976e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,11,K,21.15633
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,62,12,L,2.06843e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,5,E,29.01555
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,6,F,3.29002e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,8,H,15.51723
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,9,I,1.90149e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,11,K,23.55007
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,63,12,L,1.68079e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,64,5,E,30.11509
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,64,6,F,4.01705e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,64,8,H,16.30675
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,64,9,I,2.68462e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,65,5,E,31.51548
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,65,6,F,5.04007e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,65,8,H,16.8526
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,65,9,I,2.36391e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,66,5,E,32.97951
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,66,6,F,5.72251e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,66,8,H,16.99469
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,66,9,I,3.30772e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,67,5,E,32.98045
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,67,6,F,6.09805e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,67,8,H,17.85836
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,67,9,I,4.11253e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,68,5,E,34.94035
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,68,6,F,6.20874e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,68,8,H,18.5351
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,68,9,I,5.02132e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,69,5,E,36.25984
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,69,6,F,5.7209e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,69,8,H,19.80068
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,69,9,I,6.07499e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,70,5,E,36.26323
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,70,6,F,7.0496e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,70,8,H,20.80916
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,70,9,I,9.56436e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,71,5,E,38.73205
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,71,6,F,5.61685e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,72,5,E,40.53132
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,72,6,F,6.3774e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,73,5,E,43.47964
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,73,6,F,8.52598e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,74,5,E,46.06739
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,74,6,F,1.05044e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,75,5,E,48.81452
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,75,6,F,1.65375e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,76,5,E,53.23631
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,76,6,F,2.23097e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,77,5,E,57.3445
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,77,6,F,2.9556e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,78,5,E,64.12169
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue,78,6,F,7.0644e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,1,1,A,X42
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,1,2,B,common name
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,2,2,B,UNS
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,3,1,A,line pipe
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,3,2,B,Form
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,4,2,B,Temper
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,4,D,Fatigue Properties
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,6,F,"Environment 
+[ Press. / Temp. ] 
+(MPa) / (˚C)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,7,G,Orientation
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,8,H,Test method
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,9,I,"Constant ∆K
+(MPa m1/2)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,10,J,"Stress ratio 
+[ R ]"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,11,K,"da/dN 
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,12,L,"lower bound da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,13,M,"upper bound da/dN
+(m/cycle)"
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,5,14,N,Ref.
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,4,D,Reference
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,6,F,N2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,7,G,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,8,H,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,9,I,10
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,10,J,0.09747
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,11,K,7.80062e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,12,L,6.22199e-09
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,13,M,1.26039e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,7,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,8,10,J,0.24742
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,8,11,K,1.81558e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,8,12,L,1.26865e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,8,13,M,2.50001e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,9,10,J,0.39902
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,9,11,K,2.77872e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,9,12,L,2.06309e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,9,13,M,4.05197e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,10,10,J,0.60057
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,10,11,K,1.8012e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,10,12,L,7.78938e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,10,13,M,2.73305e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,11,10,J,0.80458
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,11,11,K,2.51986e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,11,12,L,1.86053e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,11,13,M,3.10749e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,4,D,gas environment no. 1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,6,F,H2: 6.9 / RT
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,7,G,CL
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,8,H,ASTM E647-83
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,9,I,10
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,10,J,0.09457
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,11,K,2.66135e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,12,L,7.82218e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,13,M,6.46691e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,13,14,N,1
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,14,10,J,0.24754
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,14,11,K,2.13635e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,14,12,L,1.04306e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,14,13,M,4.37571e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,15,10,J,0.39987
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,15,11,K,1.82222e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,15,12,L,5.18219e-08
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,15,13,M,5.16781e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,16,10,J,0.6001
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,16,11,K,1.29734e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,16,12,L,7.98495e-07
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,16,13,M,2.01684e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,17,10,J,0.80534
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,17,11,K,1.62984e-05
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,17,12,L,8.08995e-06
+1100cia85tenfrafat.xlsx,Mechanical Properties-Fatigue2,17,13,M,2.39775e-05
+1211nib10frafat.xlsx,Material,1,1,A,4130X
+1211nib10frafat.xlsx,Material,1,2,B,common name
+1211nib10frafat.xlsx,Material,2,2,B,UNS
+1211nib10frafat.xlsx,Material,2,4,D,Specifications
+1211nib10frafat.xlsx,Material,2,5,E,DOT
+1211nib10frafat.xlsx,Material,3,1,A,vessel
+1211nib10frafat.xlsx,Material,3,2,B,Form
+1211nib10frafat.xlsx,Material,4,1,A,Q&T
+1211nib10frafat.xlsx,Material,4,2,B,Temper
+1211nib10frafat.xlsx,Material,5,4,D,Composition
+1211nib10frafat.xlsx,Material,5,5,E,Fe
+1211nib10frafat.xlsx,Material,5,6,F,Cr
+1211nib10frafat.xlsx,Material,5,7,G,Ni
+1211nib10frafat.xlsx,Material,5,8,H,Mn
+1211nib10frafat.xlsx,Material,5,9,I,Mo
+1211nib10frafat.xlsx,Material,5,10,J,Nb
+1211nib10frafat.xlsx,Material,5,11,K,Ti
+1211nib10frafat.xlsx,Material,5,12,L,V
+1211nib10frafat.xlsx,Material,5,13,M,Al
+1211nib10frafat.xlsx,Material,5,14,N,Cu
+1211nib10frafat.xlsx,Material,5,15,O,Si
+1211nib10frafat.xlsx,Material,5,16,P,C
+1211nib10frafat.xlsx,Material,5,17,Q,N
+1211nib10frafat.xlsx,Material,5,18,R,B
+1211nib10frafat.xlsx,Material,5,19,S,S
+1211nib10frafat.xlsx,Material,5,20,T,P
+1211nib10frafat.xlsx,Material,6,5,E,bal
+1211nib10frafat.xlsx,Material,6,6,F,0.92
+1211nib10frafat.xlsx,Material,6,7,G,n/r
+1211nib10frafat.xlsx,Material,6,8,H,0.62
+1211nib10frafat.xlsx,Material,6,9,I,0.19
+1211nib10frafat.xlsx,Material,6,10,J,n/r
+1211nib10frafat.xlsx,Material,6,11,K,n/r
+1211nib10frafat.xlsx,Material,6,12,L,n/r
+1211nib10frafat.xlsx,Material,6,13,M,0.035
+1211nib10frafat.xlsx,Material,6,14,N,n/r
+1211nib10frafat.xlsx,Material,6,15,O,0.28
+1211nib10frafat.xlsx,Material,6,16,P,0.29
+1211nib10frafat.xlsx,Material,6,17,Q,n/r
+1211nib10frafat.xlsx,Material,6,18,R,n/r
+1211nib10frafat.xlsx,Material,6,19,S,0.004
+1211nib10frafat.xlsx,Material,6,20,T,0.008
+1211nib10frafat.xlsx,Material,8,4,D,Temper
+1211nib10frafat.xlsx,Material,8,5,E,Designation
+1211nib10frafat.xlsx,Material,8,6,F,Microstructure
+1211nib10frafat.xlsx,Material,8,8,H,Processing
+1211nib10frafat.xlsx,Material,8,12,L,Tensile Properties
+1211nib10frafat.xlsx,Material,8,13,M,Yield strength† (MPa)
+1211nib10frafat.xlsx,Material,8,14,N,Tensile strength (MPa)
+1211nib10frafat.xlsx,Material,8,15,O,Elongation‡ (%)
+1211nib10frafat.xlsx,Material,8,16,P,"Reduction of Area 
+(%)"
+1211nib10frafat.xlsx,Material,9,5,E,4130X
+1211nib10frafat.xlsx,Material,9,6,F,(tempered martensite)
+1211nib10frafat.xlsx,Material,9,8,H,Quench and tempered pressure vessel
+1211nib10frafat.xlsx,Material,9,13,M,607
+1211nib10frafat.xlsx,Material,9,14,N,n/r
+1211nib10frafat.xlsx,Material,9,15,O,n/r
+1211nib10frafat.xlsx,Material,9,16,P,n/r
+1211nib10frafat.xlsx,Material,11,13,M,† 0.2% offset
+1211nib10frafat.xlsx,Material,12,13,M,‡ Elongation in 50 mm (or 2 in)
+1211nib10frafat.xlsx,Material,14,5,E,short
+1211nib10frafat.xlsx,Material,14,6,F,full
+1211nib10frafat.xlsx,Material,15,4,D,References
+1211nib10frafat.xlsx,Material,15,5,E,1
+1211nib10frafat.xlsx,Material,15,6,F,"KA Nibur, C San Marchi and BP Somerday. ""Fracture and fatigue tolerant steel pressure vessels for gaseous hydrogen"" (PVP2010-25827). in: Proceedings of PVP-2010: ASME Pressure Vessels and Piping Division Conference, Bellevue WA, Juy 18-22, 2010."
+1211nib10frafat.xlsx,Environment,1,1,A,4130X
+1211nib10frafat.xlsx,Environment,1,2,B,common name
+1211nib10frafat.xlsx,Environment,2,2,B,UNS
+1211nib10frafat.xlsx,Environment,3,1,A,vessel
+1211nib10frafat.xlsx,Environment,3,2,B,Form
+1211nib10frafat.xlsx,Environment,4,1,A,Q&T
+1211nib10frafat.xlsx,Environment,4,2,B,Temper
+1211nib10frafat.xlsx,Environment,5,4,D,Testing in Gaseous Hydrogen
+1211nib10frafat.xlsx,Environment,7,4,D,Temperature (˚C)
+1211nib10frafat.xlsx,Environment,7,6,F,RT
+1211nib10frafat.xlsx,Environment,8,4,D,Pressure (MPa)
+1211nib10frafat.xlsx,Environment,8,6,F,45
+1211nib10frafat.xlsx,Environment,9,4,D,test environment
+1211nib10frafat.xlsx,Environment,9,6,F,H2
+1211nib10frafat.xlsx,Environment,10,6,F,[env. 1]
+1211nib10frafat.xlsx,Environment,12,4,D,"Gas Purity 
+(ppm v/v)"
+1211nib10frafat.xlsx,Environment,12,5,E,O2
+1211nib10frafat.xlsx,Environment,12,6,F,H2O
+1211nib10frafat.xlsx,Environment,12,7,G,N2
+1211nib10frafat.xlsx,Environment,13,5,E,< 2 typ.
+1211nib10frafat.xlsx,Environment,13,6,F,< 5 typ.
+1211nib10frafat.xlsx,Environment,13,7,G,< 5 typ.
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,1,1,A,4130X
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,1,2,B,common name
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,2,2,B,UNS
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,3,1,A,vessel
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,3,2,B,Form
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,4,1,A,Q&T
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,4,2,B,Temper
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,4,D,Fracture Properties
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,6,F,"Environment 
+[ Press. / Temp. ] 
+(MPa) / (˚C)"
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,7,G,Orientation
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,8,H,Test method
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,9,I,"Test rate 
+(MPa m1/2 per second)"
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,10,J,Yield strength (MPa)
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,11,K,"JIC 
+(kJ/m2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,12,L,"KIC 
+(MPa m1/2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,5,13,M,Ref.
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,4,D,Reference
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,6,F,n/r
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,7,G,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,8,H,ASTM E1820
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,9,I,n/r
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,10,J,607
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,11,K,n/r
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,12,L,n/r
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,7,13,M,1
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,4,D,gas environment no. 1
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,6,F,H2: 45 / RT
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,7,G,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,8,H,ASTM E1820
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,9,I,1.5 to 4 mm/hr
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,10,J,n/r
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,11,K,15.5†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,12,L,59†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,13,M,1
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,9,14,N,AVERAGES
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,11,10,J,test 1
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,11,11,K,12†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,11,12,L,52†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,12,10,J,test 2
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,12,11,K,20†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,12,12,L,67†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,13,10,J,test 3
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,13,11,K,13.5†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,13,12,L,55†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,14,10,J,test 4
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,14,11,K,16.5†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,14,12,L,61†
+1211nib10frafat.xlsx,Mechanical Properties-Fracture,16,11,K,† JQ (KJQ): non uniform crack fronts
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,1,1,A,4130X
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,1,2,B,common name
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,2,2,B,UNS
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,3,1,A,vessel
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,3,2,B,Form
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,4,1,A,Q&T
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,4,2,B,Temper
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,4,D,Environment [ Press. / Temp. ] (MPa / ˚C)
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,5,E,Environment
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,6,F,H2: 45 / RT
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,8,H,Environment
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,9,I,H2: 45 / RT
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,11,K,Environment
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,12,L,H2: 45 / RT
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,14,N,Environment
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,5,15,O,H2: 45 / RT
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,5,E,Orientation
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,6,F,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,8,H,Orientation
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,9,I,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,11,K,Orientation
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,12,L,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,14,N,Orientation
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,6,15,O,CL
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,5,E,Test method
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,6,F,ASTM E647
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,8,H,Test method
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,9,I,ASTM E647
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,11,K,Test method
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,12,L,ASTM E647
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,14,N,Test method
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,7,15,O,ASTM E647
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,5,E,R-ratio
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,6,F,0.1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,8,H,R-ratio
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,9,I,0.1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,11,K,R-ratio
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,12,L,0.5
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,14,N,R-ratio
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,8,15,O,0.5
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,5,E,Frequency (Hz)
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,6,F,0.1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,8,H,Frequency (Hz)
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,9,I,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,11,K,Frequency (Hz)
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,12,L,0.1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,14,N,Frequency (Hz)
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,9,15,O,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,5,E,Reference
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,6,F,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,8,H,Reference
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,9,I,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,11,K,Reference
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,12,L,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,14,N,Reference
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,10,15,O,1
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,4,D,Fatigue Properties
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,5,E,"∆K
+(MPa m1/2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,6,F,"da/dN
+(m/cycle)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,8,H,"∆K
+(MPa m1/2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,9,I,"da/dN
+(m/cycle)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,11,K,"∆K
+(MPa m1/2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,12,L,"da/dN
+(m/cycle)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,14,N,"∆K
+(MPa m1/2)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,12,15,O,"da/dN
+(m/cycle)"
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,5,E,9.0593
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,6,F,7.3406e-09
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,8,H,9.7506
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,9,I,1.4529e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,11,K,9.5695
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,12,L,1.2649e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,14,N,9.4967
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,14,15,O,8.255e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,5,E,9.1258
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,6,F,8.0264e-09
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,8,H,9.8399
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,9,I,2.1057e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,11,K,9.6931
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,12,L,1.4173e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,14,N,9.5956
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,15,15,O,8.9662e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,5,E,9.2045
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,6,F,8.4074e-09
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,8,H,9.9916
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,9,I,2.6162e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,11,K,9.7939
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,12,L,1.5392e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,14,N,9.7255
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,16,15,O,9.8552e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,5,E,9.261
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,6,F,8.9662e-09
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,8,H,10.107
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,9,I,2.8448e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,11,K,9.9159
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,12,L,1.6662e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,14,N,9.8483
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,17,15,O,1.0643e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,5,E,9.3237
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,6,F,9.5504e-09
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,8,H,10.234
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,9,I,3.0988e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,11,K,10.038
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,12,L,1.7678e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,14,N,9.9791
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,18,15,O,1.1887e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,5,E,9.39
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,6,F,1.0058e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,8,H,10.359
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,9,I,3.4036e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,11,K,10.152
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,12,L,1.8669e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,14,N,10.107
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,19,15,O,1.2141e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,8,H,10.499
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,9,I,3.81e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,11,K,10.287
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,12,L,2.0726e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,14,N,10.201
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,20,15,O,1.2497e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,8,H,10.602
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,9,I,4.318e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,11,K,10.425
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,12,L,2.3495e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,14,N,10.298
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,21,15,O,1.3259e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,5,E,11.166
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,6,F,7.4676e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,8,H,10.732
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,9,I,4.9022e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,11,K,10.545
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,12,L,2.5375e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,14,N,10.468
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,22,15,O,1.4681e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,5,E,11.314
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,6,F,7.9756e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,8,H,10.869
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,9,I,5.4102e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,11,K,10.655
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,12,L,2.7432e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,14,N,10.592
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,23,15,O,1.6027e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,5,E,11.463
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,6,F,8.8392e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,8,H,10.981
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,9,I,5.7912e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,11,K,10.795
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,12,L,2.9972e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,14,N,10.702
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,24,15,O,1.7602e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,5,E,11.599
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,6,F,9.525e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,8,H,11.104
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,9,I,6.5024e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,11,K,10.931
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,12,L,3.175e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,14,N,10.82
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,25,15,O,1.9837e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,5,E,11.767
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,6,F,1.049e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,8,H,11.246
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,9,I,7.1882e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,11,K,11.04
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,12,L,3.2512e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,14,N,10.979
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,26,15,O,2.1463e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,5,E,11.914
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,6,F,1.1633e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,8,H,11.381
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,9,I,7.9248e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,11,K,11.18
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,12,L,3.429e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,14,N,11.098
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,27,15,O,2.3139e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,5,E,12.067
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,6,F,1.2776e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,8,H,11.482
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,9,I,8.636e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,11,K,11.317
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,12,L,3.5814e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,14,N,11.22
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,28,15,O,2.4232e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,5,E,12.226
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,6,F,1.4148e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,8,H,11.643
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,9,I,9.652e-08
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,11,K,11.451
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,12,L,3.8354e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,14,N,11.388
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,29,15,O,2.5349e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,5,E,12.38
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,6,F,1.5443e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,8,H,11.788
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,9,I,1.0693e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,11,K,11.583
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,12,L,3.9878e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,14,N,11.503
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,30,15,O,2.5654e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,5,E,12.561
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,6,F,1.7094e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,8,H,11.927
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,9,I,1.1811e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,11,K,11.736
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,12,L,4.1402e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,14,N,11.648
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,31,15,O,2.667e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,5,E,12.721
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,6,F,1.8745e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,8,H,12.112
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,9,I,1.3513e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,11,K,11.846
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,12,L,4.2672e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,14,N,11.819
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,32,15,O,2.7686e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,5,E,12.878
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,6,F,2.065e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,8,H,12.274
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,9,I,1.4884e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,11,K,12.009
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,12,L,4.445e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,14,N,11.946
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,33,15,O,2.8448e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,5,E,13.049
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,6,F,2.2962e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,8,H,12.412
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,9,I,1.6358e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,11,K,12.155
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,12,L,4.699e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,14,N,12.058
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,34,15,O,2.921e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,5,E,13.22
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,6,F,2.5171e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,8,H,12.583
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,9,I,1.7755e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,11,K,12.303
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,12,L,5.08e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,14,N,12.233
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,35,15,O,3.2258e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,5,E,13.405
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,6,F,2.7686e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,8,H,12.764
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,9,I,1.9253e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,11,K,12.446
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,12,L,5.4864e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,14,N,12.371
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,36,15,O,3.556e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,5,E,13.57
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,6,F,2.9718e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,8,H,12.94
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,9,I,2.0574e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,11,K,12.589
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,12,L,5.9182e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,14,N,12.527
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,37,15,O,3.81e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,5,E,13.757
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,6,F,3.2258e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,8,H,13.111
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,9,I,2.2301e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,11,K,12.758
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,12,L,6.2992e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,14,N,12.64
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,38,15,O,3.937e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,5,E,13.939
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,6,F,3.3782e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,8,H,13.283
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,9,I,2.4206e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,11,K,12.917
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,12,L,6.477e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,14,N,12.804
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,39,15,O,4.1148e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,5,E,14.126
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,6,F,3.5814e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,8,H,13.446
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,9,I,2.5908e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,11,K,13.054
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,12,L,6.6294e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,14,N,12.976
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,40,15,O,4.2418e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,5,E,14.311
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,6,F,3.7846e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,8,H,13.614
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,9,I,2.8194e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,11,K,13.223
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,12,L,6.8072e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,14,N,13.142
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,41,15,O,4.191e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,5,E,14.525
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,6,F,4.0386e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,8,H,13.79
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,9,I,3.048e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,11,K,13.407
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,12,L,7.1628e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,14,N,13.287
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,42,15,O,4.2672e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,5,E,14.705
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,6,F,4.2672e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,8,H,13.981
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,9,I,3.2004e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,11,K,13.593
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,12,L,7.4422e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,14,N,13.455
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,43,15,O,4.572e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,5,E,14.918
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,6,F,4.4704e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,8,H,14.163
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,9,I,3.4798e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,11,K,13.776
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,12,L,7.8994e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,14,N,13.645
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,44,15,O,4.8006e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,5,E,15.111
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,6,F,4.7244e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,8,H,14.34
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,9,I,3.6576e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,11,K,13.944
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,12,L,8.128e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,14,N,13.811
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,45,15,O,4.8768e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,5,E,15.318
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,6,F,5.0038e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,8,H,14.566
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,9,I,3.8608e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,11,K,14.147
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,12,L,8.3312e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,14,N,13.958
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,46,15,O,4.9784e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,5,E,15.537
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,6,F,5.3086e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,8,H,14.732
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,9,I,3.9624e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,11,K,14.316
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,12,L,8.5598e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,14,N,14.159
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,47,15,O,5.1308e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,5,E,15.749
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,6,F,5.6134e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,8,H,14.951
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,9,I,4.191e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,11,K,14.499
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,12,L,8.89e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,14,N,14.357
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,48,15,O,5.1054e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,5,E,15.951
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,6,F,5.9182e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,8,H,15.183
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,9,I,4.445e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,11,K,14.695
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,12,L,9.4234e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,14,N,14.543
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,49,15,O,5.1562e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,5,E,16.187
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,6,F,6.2484e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,8,H,15.4
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,9,I,4.826e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,11,K,14.879
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,12,L,9.9314e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,14,N,14.736
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,50,15,O,5.3594e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,5,E,16.409
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,6,F,6.5024e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,8,H,15.576
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,9,I,5.08e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,11,K,15.067
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,12,L,1.0389e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,14,N,14.945
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,51,15,O,5.6134e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,5,E,16.663
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,6,F,6.8326e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,8,H,15.821
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,9,I,5.5118e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,11,K,15.269
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,12,L,1.0871e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,14,N,15.135
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,52,15,O,5.7912e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,5,E,16.904
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,6,F,7.2136e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,8,H,16.044
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,9,I,5.8166e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,11,K,15.471
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,12,L,1.1176e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,14,N,15.339
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,53,15,O,5.9944e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,5,E,17.173
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,6,F,7.6454e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,8,H,16.315
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,9,I,6.1722e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,11,K,15.7
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,12,L,1.1633e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,14,N,15.552
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,54,15,O,6.223e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,5,E,17.439
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,6,F,8.1026e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,8,H,16.548
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,9,I,6.5024e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,11,K,15.894
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,12,L,1.2065e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,14,N,15.768
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,55,15,O,6.477e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,5,E,17.699
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,6,F,8.6106e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,8,H,16.814
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,9,I,6.858e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,11,K,16.119
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,12,L,1.2802e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,14,N,15.967
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,56,15,O,6.7056e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,5,E,17.955
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,6,F,9.0424e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,8,H,17.085
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,9,I,7.2898e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,11,K,16.333
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,12,L,1.3513e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,14,N,16.205
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,57,15,O,7.1882e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,5,E,18.228
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,6,F,9.525e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,8,H,17.345
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,9,I,7.493e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,11,K,16.56
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,12,L,1.4046e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,14,N,16.415
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,58,15,O,7.6454e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,5,E,18.501
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,6,F,9.9314e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,8,H,17.623
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,9,I,7.8994e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,11,K,16.774
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,12,L,1.4478e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,14,N,16.658
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,59,15,O,8.1788e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,5,E,18.806
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,6,F,1.0363e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,8,H,17.892
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,9,I,8.0518e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,11,K,17.033
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,12,L,1.5062e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,14,N,16.878
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,60,15,O,8.636e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,5,E,19.077
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,6,F,1.0744e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,8,H,18.19
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,9,I,8.5344e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,11,K,17.261
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,12,L,1.5519e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,14,N,17.137
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,61,15,O,8.9916e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,5,E,19.384
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,6,F,1.1201e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,8,H,18.423
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,9,I,8.89e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,11,K,17.519
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,12,L,1.6078e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,14,N,17.369
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,62,15,O,9.3472e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,5,E,19.7
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,6,F,1.176e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,8,H,18.761
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,9,I,9.6774e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,11,K,17.762
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,12,L,1.7043e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,14,N,17.62
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,63,15,O,9.6774e-07
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,5,E,20.036
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,6,F,1.2294e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,8,H,19.022
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,9,I,1.0135e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,11,K,18.057
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,12,L,1.811e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,14,N,17.882
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,64,15,O,1.0084e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,5,E,20.355
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,6,F,1.2878e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,8,H,19.349
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,9,I,1.0719e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,11,K,18.344
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,12,L,1.8771e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,14,N,18.142
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,65,15,O,1.0312e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,5,E,20.696
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,6,F,1.3411e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,8,H,19.622
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,9,I,1.11e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,11,K,18.62
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,12,L,1.9558e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,14,N,18.403
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,66,15,O,1.0897e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,5,E,21.06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,6,F,1.4046e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,8,H,19.982
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,9,I,1.1684e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,11,K,18.895
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,12,L,2.0472e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,14,N,18.683
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,67,15,O,1.1684e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,5,E,21.413
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,6,F,1.463e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,8,H,20.291
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,9,I,1.2319e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,11,K,19.226
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,12,L,2.1285e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,14,N,19.001
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,68,15,O,1.2395e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,5,E,21.784
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,6,F,1.5316e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,8,H,20.701
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,9,I,1.3106e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,11,K,19.497
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,12,L,2.2174e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,14,N,19.258
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,69,15,O,1.2929e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,5,E,22.145
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,6,F,1.6053e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,8,H,21
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,9,I,1.3716e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,11,K,19.806
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,12,L,2.3216e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,14,N,19.531
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,70,15,O,1.3894e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,5,E,22.548
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,6,F,1.6916e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,8,H,21.449
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,9,I,1.43e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,11,K,20.124
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,12,L,2.4232e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,14,N,19.88
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,71,15,O,1.4884e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,5,E,22.956
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,6,F,1.7755e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,8,H,21.913
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,9,I,1.4732e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,11,K,20.432
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,12,L,2.5248e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,14,N,20.197
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,72,15,O,1.524e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,5,E,23.376
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,6,F,1.8644e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,8,H,22.305
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,9,I,1.4935e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,11,K,20.778
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,12,L,2.6516e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,14,N,20.508
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,73,15,O,1.585e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,5,E,23.788
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,6,F,1.9558e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,8,H,22.739
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,9,I,1.6231e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,11,K,21.131
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,12,L,2.8274e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,14,N,20.867
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,74,15,O,1.717e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,5,E,24.247
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,6,F,2.0269e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,8,H,23.197
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,9,I,1.7297e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,11,K,21.471
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,12,L,2.9452e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,14,N,21.254
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,75,15,O,1.8186e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,5,E,24.681
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,6,F,2.1082e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,8,H,23.624
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,9,I,1.8186e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,14,N,21.606
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,76,15,O,1.9025e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,77,5,E,25.144
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,77,6,F,2.1895e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,77,8,H,24.018
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,77,9,I,1.8491e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,78,5,E,25.657
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,78,6,F,2.3038e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,78,8,H,24.585
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,78,9,I,1.8923e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,79,5,E,26.136
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,79,6,F,2.4155e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,79,8,H,25.075
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,79,9,I,1.9533e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,80,5,E,26.651
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,80,6,F,2.5619e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,80,8,H,25.639
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,80,9,I,2.0574e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,81,5,E,27.188
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,81,6,F,2.722e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,81,8,H,26.153
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,81,9,I,2.098e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,82,5,E,27.751
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,82,6,F,2.865e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,82,8,H,26.56
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,82,9,I,2.2174e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,83,8,H,27.158
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,83,9,I,2.3851e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,84,8,H,27.856
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,84,9,I,2.4714e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,85,8,H,28.354
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,85,9,I,2.5349e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,86,8,H,29.061
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,86,9,I,2.6467e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,87,8,H,29.885
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,87,9,I,2.7792e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,88,8,H,30.572
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,88,9,I,2.8956e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,89,8,H,31.348
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,89,9,I,3.3389e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,90,8,H,32.076
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,90,9,I,3.5203e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,91,8,H,32.813
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,91,9,I,3.855e-06
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,92,8,H,33.452
+1211nib10frafat.xlsx,Mechanical Properties-Fatigue,92,9,I,4.0967e-06
+3230san11frafat.xlsx,Material,1,1,A,7475
+3230san11frafat.xlsx,Material,1,2,B,common name
+3230san11frafat.xlsx,Material,2,2,B,UNS
+3230san11frafat.xlsx,Material,2,4,D,Specifications
+3230san11frafat.xlsx,Material,2,5,E,n/r
+3230san11frafat.xlsx,Material,3,1,A,plate
+3230san11frafat.xlsx,Material,3,2,B,Form
+3230san11frafat.xlsx,Material,4,1,A,T7351
+3230san11frafat.xlsx,Material,4,2,B,Temper
+3230san11frafat.xlsx,Material,5,4,D,Composition
+3230san11frafat.xlsx,Material,5,5,E,Al
+3230san11frafat.xlsx,Material,5,6,F,Zn
+3230san11frafat.xlsx,Material,5,7,G,Mg
+3230san11frafat.xlsx,Material,5,8,H,Cu
+3230san11frafat.xlsx,Material,5,9,I,Si
+3230san11frafat.xlsx,Material,5,10,J,Fe
+3230san11frafat.xlsx,Material,5,11,K,Mn
+3230san11frafat.xlsx,Material,5,12,L,Cr
+3230san11frafat.xlsx,Material,5,13,M,Ti
+3230san11frafat.xlsx,Material,5,14,N,V
+3230san11frafat.xlsx,Material,5,15,O,B
+3230san11frafat.xlsx,Material,6,5,E,bal
+3230san11frafat.xlsx,Material,6,6,F,5.78
+3230san11frafat.xlsx,Material,6,7,G,2.16
+3230san11frafat.xlsx,Material,6,8,H,1.45
+3230san11frafat.xlsx,Material,6,9,I,0.03
+3230san11frafat.xlsx,Material,6,10,J,0..06
+3230san11frafat.xlsx,Material,6,11,K,0.01
+3230san11frafat.xlsx,Material,6,12,L,0.2
+3230san11frafat.xlsx,Material,6,13,M,0.04
+3230san11frafat.xlsx,Material,6,14,N,0.01
+3230san11frafat.xlsx,Material,6,15,O,n/r
+3230san11frafat.xlsx,Material,8,4,D,Temper
+3230san11frafat.xlsx,Material,8,5,E,Designation
+3230san11frafat.xlsx,Material,8,6,F,Microstructure
+3230san11frafat.xlsx,Material,8,8,H,Processing
+3230san11frafat.xlsx,Material,8,12,L,Tensile Properties
+3230san11frafat.xlsx,Material,8,13,M,Yield strength† (MPa)
+3230san11frafat.xlsx,Material,8,14,N,Tensile strength (MPa)
+3230san11frafat.xlsx,Material,8,15,O,Elongation‡ (%)
+3230san11frafat.xlsx,Material,8,16,P,"Reduction of Area 
+(%)"
+3230san11frafat.xlsx,Material,9,5,E,7475
+3230san11frafat.xlsx,Material,9,6,F,over-aged
+3230san11frafat.xlsx,Material,9,8,H,"T7351
+plate (76mm thick)"
+3230san11frafat.xlsx,Material,9,13,M,407
+3230san11frafat.xlsx,Material,9,14,N,n/r
+3230san11frafat.xlsx,Material,9,15,O,n/r
+3230san11frafat.xlsx,Material,9,16,P,n/r
+3230san11frafat.xlsx,Material,11,13,M,† 0.2% offset
+3230san11frafat.xlsx,Material,12,13,M,‡ Elongation in 50 mm (or 2 in)
+3230san11frafat.xlsx,Material,14,5,E,short
+3230san11frafat.xlsx,Material,14,6,F,full
+3230san11frafat.xlsx,Material,15,4,D,References
+3230san11frafat.xlsx,Material,15,5,E,1
+3230san11frafat.xlsx,Material,15,6,F,"C San Marchi, BP Somerday, KA Nibur, DG Stalheim, T Boggess and S Jansto. ""Fracture and fatigue of commercial grade pipeline steels in gaseous hydrogen"" (PVP2010-25825). in: Proceedings of PVP-2010: ASME Pressure Vessels and Piping Division Conference, Bellevue WA, July 18-22, 2010."
+3230san11frafat.xlsx,Material,16,5,E,2
+3230san11frafat.xlsx,Material,16,6,F,"DG Stalheim, T Boggess, C San Marchi, S Jansto, BP Somerday, G Muralidharan and P Sofronis. ""Microstructure and mechanical property performance of commercial grade API pipeline steels in high pressure gaseous hydrogen"" (IPC2010-31301). in: Proceedings of IPC-2010: ASME 8th International Pipeline Conference, Calgary, Alberta, Canada, October 2010."
+3230san11frafat.xlsx,Environment,1,1,A,7475
+3230san11frafat.xlsx,Environment,1,2,B,common name
+3230san11frafat.xlsx,Environment,2,2,B,UNS
+3230san11frafat.xlsx,Environment,3,1,A,plate
+3230san11frafat.xlsx,Environment,3,2,B,Form
+3230san11frafat.xlsx,Environment,4,1,A,T7351
+3230san11frafat.xlsx,Environment,4,2,B,Temper
+3230san11frafat.xlsx,Environment,5,4,D,Testing in Gaseous Hydrogen
+3230san11frafat.xlsx,Environment,7,4,D,Temperature (˚C)
+3230san11frafat.xlsx,Environment,7,5,E,RT
+3230san11frafat.xlsx,Environment,7,6,F,RT
+3230san11frafat.xlsx,Environment,8,4,D,Pressure (MPa)
+3230san11frafat.xlsx,Environment,8,5,E,0.1
+3230san11frafat.xlsx,Environment,8,6,F,103
+3230san11frafat.xlsx,Environment,9,4,D,test environment
+3230san11frafat.xlsx,Environment,9,5,E,air
+3230san11frafat.xlsx,Environment,9,6,F,H2
+3230san11frafat.xlsx,Environment,10,5,E,[ref. env.]
+3230san11frafat.xlsx,Environment,10,6,F,[env. 1]
+3230san11frafat.xlsx,Environment,12,4,D,"Gas Purity 
+(ppm v/v)"
+3230san11frafat.xlsx,Environment,12,5,E,O2
+3230san11frafat.xlsx,Environment,12,6,F,H2O
+3230san11frafat.xlsx,Environment,12,7,G,N2
+3230san11frafat.xlsx,Environment,13,5,E,< 2 typ.
+3230san11frafat.xlsx,Environment,13,6,F,< 5 typ.
+3230san11frafat.xlsx,Environment,13,7,G,< 5 typ.
+3230san11frafat.xlsx,Mechanical Properties-Fracture,1,1,A,7475
+3230san11frafat.xlsx,Mechanical Properties-Fracture,1,2,B,common name
+3230san11frafat.xlsx,Mechanical Properties-Fracture,2,2,B,UNS
+3230san11frafat.xlsx,Mechanical Properties-Fracture,3,1,A,plate
+3230san11frafat.xlsx,Mechanical Properties-Fracture,3,2,B,Form
+3230san11frafat.xlsx,Mechanical Properties-Fracture,4,1,A,T7351
+3230san11frafat.xlsx,Mechanical Properties-Fracture,4,2,B,Temper
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,4,D,Fracture Properties
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,6,F,"Environment 
+[ Press. / Temp. ] 
+(MPa) / (˚C)"
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,7,G,Orientation
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,8,H,Test method
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,9,I,"Test rate 
+(MPa m1/2 per second)"
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,10,J,Yield strength (MPa)
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,11,K,"JIC 
+(kJ/m2)"
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,12,L,"KIC 
+(MPa m1/2)"
+3230san11frafat.xlsx,Mechanical Properties-Fracture,5,13,M,Ref.
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,4,D,Reference
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,6,F,air: 0.1 / RT
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,7,G,SL/ST
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,8,H,ASTM E1820
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,9,I,n/r
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,10,J,407
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,11,K,26
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,12,L,44
+3230san11frafat.xlsx,Mechanical Properties-Fracture,7,13,M,1
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,4,D,gas environment no. 1
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,6,F,H2: 103 / RT
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,7,G,SL/ST
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,8,H,ASTM E1820
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,9,I,0.0042
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,10,J,n/r
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,11,K,27
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,12,L,45
+3230san11frafat.xlsx,Mechanical Properties-Fracture,9,13,M,1
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,1,1,A,7475
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,1,2,B,common name
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,2,2,B,UNS
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,3,1,A,plate
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,3,2,B,Form
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,4,1,A,T7351
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,4,2,B,Temper
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,4,9,I,REFERENCE: AIR
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,5,4,D,Environment [ Press. / Temp. ] (MPa / ˚C)
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,5,5,E,Environment
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,5,6,F,H2: 103 / RT
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,5,8,H,Environment
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,5,9,I,air: 0.1 / RT
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,6,5,E,Orientation
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,6,6,F,SL/ST
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,6,8,H,Orientation
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,6,9,I,SL/ST
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,7,5,E,Test method
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,7,6,F,ASTM E647
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,7,8,H,Test method
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,7,9,I,ASTM E647
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,8,5,E,R-ratio
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,8,6,F,0.3
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,8,8,H,R-ratio
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,8,9,I,0.3
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,9,5,E,Frequency (Hz)
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,9,6,F,1
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,9,8,H,Frequency (Hz)
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,9,9,I,1
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,10,5,E,Reference
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,10,6,F,1
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,10,8,H,Reference
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,10,9,I,1
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,12,4,D,Fatigue Properties
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,12,5,E,"∆K
+(MPa m1/2)"
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,12,6,F,"da/dN
+(m/cycle)"
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,12,8,H,"∆K
+(MPa m1/2)"
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,12,9,I,"da/dN
+(m/cycle)"
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,14,5,E,4.91
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,14,6,F,1.2e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,14,8,H,4.4903
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,14,9,I,2.4359e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,15,5,E,4.97
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,15,6,F,1.24e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,15,8,H,4.5543
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,15,9,I,2.4351e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,16,5,E,5.05
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,16,6,F,1.37e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,16,8,H,4.615
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,16,9,I,2.4856e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,17,5,E,5.11
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,17,6,F,1.55e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,17,8,H,4.6814
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,17,9,I,2.5096e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,18,5,E,5.18
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,18,6,F,1.81e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,18,8,H,4.7451
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,18,9,I,2.5343e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,19,5,E,5.26
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,19,6,F,1.82e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,19,8,H,4.8123
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,19,9,I,2.5221e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,20,5,E,5.33
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,20,6,F,1.84e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,20,8,H,4.8806
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,20,9,I,2.5602e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,21,5,E,5.39
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,21,6,F,1.85e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,21,8,H,4.9481
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,21,9,I,2.6664e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,22,5,E,5.46
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,22,6,F,1.9e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,22,8,H,5.0196
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,22,9,I,2.8372e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,23,5,E,5.53
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,23,6,F,2e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,23,8,H,5.0865
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,23,9,I,3.0262e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,24,5,E,5.6
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,24,6,F,2.19e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,24,8,H,5.1549
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,24,9,I,3.265e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,25,5,E,5.67
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,25,6,F,2.32e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,25,8,H,5.2307
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,25,9,I,3.5352e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,26,5,E,5.74
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,26,6,F,2.48e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,26,8,H,5.3072
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,26,9,I,3.7478e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,27,5,E,5.82
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,27,6,F,2.64e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,27,8,H,5.3779
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,27,9,I,3.8804e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,28,5,E,5.9
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,28,6,F,2.79e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,28,8,H,5.4517
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,28,9,I,4.0032e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,29,5,E,5.97
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,29,6,F,2.93e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,29,8,H,5.5307
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,29,9,I,4.1007e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,30,5,E,6.04
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,30,6,F,3.04e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,30,8,H,5.6107
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,30,9,I,4.1611e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,31,5,E,6.12
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,31,6,F,3.11e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,31,8,H,5.6925
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,31,9,I,4.2187e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,32,5,E,6.2
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,32,6,F,3.29e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,32,8,H,5.7714
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,32,9,I,4.2782e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,33,5,E,6.28
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,33,6,F,3.53e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,33,8,H,5.8526
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,33,9,I,4.3177e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,34,5,E,6.35
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,34,6,F,3.74e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,34,8,H,5.9395
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,34,9,I,4.3221e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,35,5,E,6.44
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,35,6,F,3.97e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,35,8,H,6.0236
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,35,9,I,4.3124e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,36,5,E,6.52
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,36,6,F,4.15e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,36,8,H,6.1122
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,36,9,I,4.3657e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,37,5,E,6.61
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,37,6,F,4.31e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,37,8,H,6.2038
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,37,9,I,4.4748e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,38,5,E,6.69
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,38,6,F,4.49e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,38,8,H,6.2958
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,38,9,I,4.6411e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,39,5,E,6.78
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,39,6,F,4.83e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,39,8,H,6.3872
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,39,9,I,4.885e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,40,5,E,6.86
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,40,6,F,5.04e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,40,8,H,6.4851
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,40,9,I,5.1978e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,41,5,E,6.96
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,41,6,F,5.7e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,41,8,H,6.5841
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,41,9,I,5.5139e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,42,5,E,7.05
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,42,6,F,6.09e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,42,8,H,6.6811
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,42,9,I,5.8929e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,43,5,E,7.15
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,43,6,F,6.5e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,43,8,H,6.7818
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,43,9,I,6.3774e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,44,5,E,7.26
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,44,6,F,6.57e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,44,8,H,6.8903
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,44,9,I,6.9129e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,45,5,E,7.37
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,45,6,F,6.74e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,45,8,H,6.9958
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,45,9,I,7.4013e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,46,5,E,7.46
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,46,6,F,6.6e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,46,8,H,7.1026
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,46,9,I,7.7719e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,47,5,E,7.59
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,47,6,F,6.38e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,47,8,H,7.2164
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,47,9,I,8.1337e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,48,5,E,7.7
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,48,6,F,6.55e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,48,8,H,7.3309
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,48,9,I,8.3065e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,49,5,E,7.84
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,49,6,F,6.52e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,49,8,H,7.455
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,49,9,I,8.4147e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,50,5,E,7.94
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,50,6,F,6.62e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,50,8,H,7.5711
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,50,9,I,8.6189e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,51,5,E,8.06
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,51,6,F,6.84e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,51,8,H,7.7008
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,51,9,I,9.0058e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,52,5,E,8.18
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,52,6,F,7.19e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,52,8,H,7.8354
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,52,9,I,9.5257e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,53,5,E,8.3
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,53,6,F,7.41e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,53,8,H,7.9639
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,53,9,I,1.0002e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,54,5,E,8.42
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,54,6,F,8.17e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,54,8,H,8.0938
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,54,9,I,1.0478e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,55,5,E,8.54
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,55,6,F,8.72e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,55,8,H,8.2343
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,55,9,I,1.1039e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,56,5,E,8.66
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,56,6,F,9.15e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,56,8,H,8.3798
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,56,9,I,1.1601e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,57,5,E,8.8
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,57,6,F,9.58e-08
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,57,8,H,8.5312
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,57,9,I,1.2187e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,58,5,E,8.92
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,58,6,F,1e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,58,8,H,8.6778
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,58,9,I,1.2781e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,59,5,E,9.06
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,59,6,F,1.06e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,59,8,H,8.8325
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,59,9,I,1.348e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,60,5,E,9.22
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,60,6,F,1.12e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,60,8,H,8.9983
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,60,9,I,1.4288e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,61,5,E,9.35
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,61,6,F,1.18e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,61,8,H,9.1682
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,61,9,I,1.5204e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,62,5,E,9.5
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,62,6,F,1.23e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,62,8,H,9.3372
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,62,9,I,1.6241e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,63,5,E,9.66
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,63,6,F,1.27e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,63,8,H,9.5164
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,63,9,I,1.7384e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,64,5,E,9.81
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,64,6,F,1.32e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,64,8,H,9.6982
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,64,9,I,1.8583e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,65,5,E,9.96
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,65,6,F,1.4e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,65,8,H,9.8875
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,65,9,I,1.9995e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,66,5,E,10.14
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,66,6,F,1.48e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,66,8,H,10.088
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,66,9,I,2.1657e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,67,5,E,10.31
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,67,6,F,1.58e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,68,5,E,10.47
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,68,6,F,1.7e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,69,5,E,10.66
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,69,6,F,1.85e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,70,5,E,10.83
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,70,6,F,2.01e-07
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,71,5,E,11.04
+3230san11frafat.xlsx,Mechanical Properties-Fatigue,71,6,F,2.15e-07

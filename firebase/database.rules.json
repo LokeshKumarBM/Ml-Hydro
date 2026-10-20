@@ -1,0 +1,13 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false,
+    "sensor_data": {
+      "latest": {
+        ".read": true,
+        ".write": "auth != null",
+        ".validate": "newData.hasChildren(['hydrogen_concentration_ppm', 'temperature_c']) && newData.child('hydrogen_concentration_ppm').isNumber() && newData.child('temperature_c').isNumber()"
+      }
+    }
+  }
+}
